@@ -22,4 +22,4 @@ In  ["Sublinear-time Algorithms"](https://www.wisdom.weizmann.ac.il/~oded/PTW/su
 
 ## Technologies
 
--   [Python 3](https://www.python.org/)
+-   [Python3](https://www.python.org/)
